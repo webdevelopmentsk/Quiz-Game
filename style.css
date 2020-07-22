@@ -53,4 +53,16 @@
     padding: 1rem 0;
     text-align: center;
 }
-
+.btn-choice{
+    background-color: #FBEEC1;
+    border-radius: 3px;
+    border: 1px solid #FBEEC1;
+    cursor: pointer;
+    color: #8D8741;
+    font-family: 'Montserrat';
+    font-size: 1rem;
+    padding: 0.7rem 0.7rem;
+    display: block;
+    margin-bottom: 0.8rem;
+    width: 40%;
+}
