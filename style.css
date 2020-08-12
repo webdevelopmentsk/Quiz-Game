@@ -7,10 +7,15 @@
 .container{
     width: 30%;
     height: 70vh;
-    background-image: url(bg-quizgame.jpg);
+    background-image: url(img/bg-quizgame.jpg);
     background-size: cover;
     font-size: 1rem;
     
+}
+.types{
+    width: 13rem;
+    height: 2rem;
+    margin: 0.5rem;
 }
 .newGame{
 
@@ -24,6 +29,7 @@
     background-color: #000000;
     text-align:center;
     transition: all 0.2s;
+
 }
 .newGame:hover{
     color:#000000;
@@ -38,8 +44,16 @@
 .question__text{
     background-color: #8D8741;
     padding: 2rem;
-    height: 30%;
+    height: 17rem;
     color: #FBEEC1;
+}
+.image{
+    width: 20rem;
+    height: 10rem;
+    margin: 0 auto;
+    background-size: cover;
+    z-index: 100;
+    margin: 1rem auto;
 }
 .choices{
     padding: 1rem 0;
