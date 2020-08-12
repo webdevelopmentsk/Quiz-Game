@@ -5,8 +5,8 @@
   font-family: 'Montserrat', sans-serif;
 }
 .container{
-    width: 30rem;
-    height: 35rem;
+    width: 30%;
+    height: 70vh;
     background-image: url(bg-quizgame.jpg);
     background-size: cover;
     font-size: 1rem;
@@ -14,7 +14,7 @@
 }
 .newGame{
 
-    width: 30%;
+    width: auto;
     padding: 0.5rem;
     border-radius: 4px;
     text-decoration:none;
