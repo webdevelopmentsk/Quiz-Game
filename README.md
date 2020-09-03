@@ -1,7 +1,7 @@
-# Quiz-Game
-The app is created by Sawitree Kalakul. I created this game beacuse I wanted to practice using function and object.
+# Quiz-Game (JavaScript)
+![Image of Yaktocat](https://github.com/webdevelopmentsk/Quiz-Games/blob/master/img/app.png)
 
-For more apps please go to:
-https://github.com/webdevelopmentsk
-
-I will be happy to hear your feedbacks.
+I used object approach to create this quiz games. There are 3 quizes:
+(1) Fun Quiz
+(2) Cities
+(3) Countries by Pictures
